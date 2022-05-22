@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{443F6BE5-4EB2-ABC9-B196-B1002340F76C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonScripts/StartButtonScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SuperManScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClearScript.cs" />
+      <File FileName="Assets/Scripts/ClearScript2.cs" />
+      <File FileName="Assets/Scripts/KangarooScript2.cs" />
+      <File FileName="Assets/Scripts/KangarooScript3.cs" />
+      <File FileName="Assets/Scripts/StageSelectScript.cs" />
+      <File FileName="Assets/Scripts/StageSelectScript2.cs" />
+      <File FileName="Assets/Scripts/StageSelectScript3.cs" />
+      <File FileName="Assets/Scripts/ButtonScripts/StartButtonScript.cs" Line="33" Column="105" />
+      <File FileName="Assets/Scripts/AudioScript.cs" />
+      <File FileName="Assets/Scripts/ButtonScripts/TopButtonScript.cs" />
+      <File FileName="Assets/Scripts/KangarooScript.cs" />
+      <File FileName="Assets/Scripts/BaseBallScript.cs" />
+      <File FileName="Assets/Scripts/ButtonScripts/NextButtonScript.cs" />
+      <File FileName="Assets/Scripts/ButtonScripts/RetryButtonScript.cs" Line="30" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6845ba5-cd23-47ab-8644-61d23dbceec5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

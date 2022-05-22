@@ -1,0 +1,2 @@
+/Users/miyaketsukasa/Downloads/Kangaroo Game/Kangaroo Game/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/miyaketsukasa/Downloads/Kangaroo Game/Kangaroo Game/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
